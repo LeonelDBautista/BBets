@@ -87,8 +87,7 @@ favstats(teachers)
 ```
 
 
-## Answer: First, we tried fining the fair odds with 40 teachers however we were not able to get a stable mean. So we decided increase the budget and hire 1000 teachers. The mean is kind of stable with 1000 Brownlows but there is still a small difference in the earnings. The odds is set to be 4.39.   
-
+## Answer: First, We attempted to determine equitable odds with a sample of 40 teachers, but achieving a consistent mean proved challenging. Consequently, we opted to augment the budget and enlist the services of 1000 teachers. While the mean has become relatively stable with this larger sample size, a slight disparity in earnings persists. The odds are now established at 4.39.     
 
 ```{r}
 # Create a histogram
@@ -116,7 +115,7 @@ favstats(teachers)
 ```
 
 
-## Answer: After trying different numbers of student, we set the numClass to 28 even though it did not get Brownlows earnings to be exactly 0 however 28 students gave us the closes values to zero.   
+## Answer: After experimenting with various student counts, we decided to set the numClass to 28. While this adjustment didn't precisely yield Brownlow's earnings as zero, 28 students provided the closest values to zero.   
 
 
 
